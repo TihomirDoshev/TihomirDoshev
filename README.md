@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I’m Tihomir Doshev 👋
+
+- 🌱 I’m currently learning Java Web Developer in SoftUni
+- 📫 How to reach me tihomirdoshev@gmail.com
+
 
 <!--
 **TihomirDoshev/TihomirDoshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
