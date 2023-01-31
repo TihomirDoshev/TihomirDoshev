@@ -1,7 +1,10 @@
 ### Hi I’m Tihomir Doshev 👋
-
+- 🔭 I’m currently working on Sofia Airport
 - 🌱 I’m currently learning Java Web Developer in SoftUni
+- 👀 I’m interested in fitness, coding , traveling and ...
+- 👯 I’m looking to collaborate on anothers Java Web Developers
 - 📫 How to reach me tihomirdoshev@gmail.com
+-  Facebook -> https://www.facebook.com/groups/1098193790824222/user/1675853697
 
 
 <!--
