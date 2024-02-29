@@ -14,6 +14,8 @@ Hi I’m Tihomir Doshev 👋<br>🌱 I’m currently learning Java Web Developer
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TihomirDoshev&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TihomirDoshev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
