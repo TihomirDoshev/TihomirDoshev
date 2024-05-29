@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I’m Tihomir Doshev 👋<br>🌱 I’m currently learning Java Web Developer in SoftUni<br>👀 I’m interested in fitness, coding , traveling and ...<br>👯 I’m looking to collaborate on anothers Java Web Developers<br>📫 How to reach me tihomirdoshev@gmail.com
+Hi I’m Tihomir Doshev 👋<br>🌱 I’m currently learning Java Web Developer<br>👀 I’m interested in fitness, coding , traveling and ...<br>👯 I’m looking to collaborate on anothers Java Web Developers<br>📫 How to reach me tihomirdoshev@gmail.com
 
 
 ## 🌐 Socials:
